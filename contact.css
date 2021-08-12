@@ -1,0 +1,18 @@
+body{
+  background-color: black;
+}
+
+main{
+  color: white;
+}
+
+#contactPicture{
+  width: 75vw;
+  padding-left: 12.5vw;
+}
+
+#siteMenu{
+  position:fixed;
+  width: 8vw;
+  padding-left: 0;
+}
