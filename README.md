@@ -1,3 +1,3 @@
 # Personal-Website
 
-This is the the repository for my personal Website's code files.
+This is the the repository for my personal website's code files.
