@@ -1,0 +1,14 @@
+body{
+  background-color: black;
+}
+
+#mediaPic{
+  width: 75vw;
+  align-self: center;
+}
+
+#siteMenu{
+  position: fixed;
+  width: 8vw;
+  padding-left: 0;
+}
